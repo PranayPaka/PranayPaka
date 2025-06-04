@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: don't
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like making art.
+- ⚡ Fun fact: I like making digital art as well as Graphic Design.
 
 <!---
 PranayPaka/PranayPaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
