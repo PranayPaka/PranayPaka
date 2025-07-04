@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranayPaka
 - 👀 I’m interested in AI/ML,Graphic design and Game development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Web Development
 - 📫 How to reach me: don't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like making digital art as well as Graphic Design.
