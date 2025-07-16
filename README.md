@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranayPaka
+- 👋 Hi, I’m Pranay
 - 👀 I’m interested in AI/ML,Graphic design and Game development
 - 🌱 I’m currently learning Python and Web Development
 - 📫 How to reach me: don't
