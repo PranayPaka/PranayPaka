@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Venom</h1>
+<h1 align="center">Hey 👋, I'm Pranay Paka</h1>
 <h3 align="center">Machine Learning | AI Systems | Builder of Real Projects</h3>
 
 <p align="center">
@@ -10,11 +10,11 @@
 ## 🧠 About Me
 
 - 🎓 Engineering student passionate about **Machine Learning & AI**
-- 🛠️ I build **end-to-end ML systems**, not toy notebooks
-- 📊 Strong in **classical ML (TF-IDF, Logistic Regression, pipelines)**
-- 🤖 Exploring **AI agents, automation & decentralized verification**
+- 🛠️ I build **end-to-end ML systems**
+- 📚 Have a strong foundation in **Machine Learning**, and continuously learning more
+- 🤖 Currently learning and experimenting with **Deep Learning, AI agents, automation, Cybersecurity and scalable systems**
 - 🎨 Side interests: graphic design & digital art
-- 🧩 I document and explain my work clearly (resume + repo ready)
+- 🧩 I love to document and explain my work clearly 
 
 ---
 
