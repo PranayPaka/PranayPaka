@@ -55,4 +55,4 @@
 
 ---
 
-⭐ *Build things that work. Explain things that matter.*
+⭐ *PS I develop on Roblox too*
