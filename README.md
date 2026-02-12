@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pranay Paka</h1>
-<h3 align="center">Machine Learning | AI Systems 
+<h3 align="center">Machine Learning | AI Systems | Builder of Real Projects</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaypaka&label=Profile%20views&color=0e75b6&style=flat" />
@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/TF--IDF-6A5ACD?style=for-the-badge"/>
 </p>
 
 ### 🌐 Web & Tools
@@ -45,21 +44,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranaypaka&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaka&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
