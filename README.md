@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pranay Paka</h1>
-<h3 align="center">Machine Learning | AI Systems | Builder of Real Projects</h3>
+<h3 align="center">Machine Learning | AI Systems 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranaypaka&label=Profile%20views&color=0e75b6&style=flat" />
