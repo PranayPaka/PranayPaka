@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning | AI Systems | Builder of Real Projects</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=pranaypaka&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -12,9 +12,9 @@
 - 🎓 Engineering student passionate about **Machine Learning & AI**
 - 🛠️ I build **end-to-end ML systems**
 - 📚 Have a strong foundation in **Machine Learning**, and continuously learning more
-- 🤖 Currently learning and experimenting with **Deep Learning, AI agents, automation, Cybersecurity and scalable systems**
+- 🤖 Currently learning and experimenting with **Deep Learning, AI agents, automation, cybersecurity, and scalable systems**
 - 🎨 Side interests: graphic design & digital art
-- 🧩 I love to document and explain my work clearly 
+- 🧩 I love to document and explain my work clearly
 
 ---
 
@@ -45,33 +45,11 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚨 **Fake News Detection**
-- TF-IDF + Logistic Regression
-- Focus on explainability & clean preprocessing
-
-🐦 **Tweet Sentiment Analysis**
-- Classical ML pipeline
-- Optimized for **low-end systems**
-- Fully documented & explained
-
-🕸️ **BlindSkill (Hackathon Project)**
-- Decentralized, trust-based **skill verification**
-- Multi-agent architecture
-- Verifiable credentials + real hiring use-case
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranaypaka&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaka&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -79,18 +57,9 @@
 ## 🧠 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Advanced%20ML-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React%20Deep%20Dive-61DAFB?style=for-the-badge&logo=react"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML%20Projects-Interested-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
