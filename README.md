@@ -9,12 +9,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Engineering student passionate about **Machine Learning & AI**
-- 🛠️ I build **end-to-end ML systems**
-- 📚 Have a strong foundation in **Machine Learning**, and continuously learning more
-- 🤖 Currently learning and experimenting with **Deep Learning, AI agents, automation, cybersecurity, and scalable systems**
-- 🎨 Side interests: graphic design & digital art
-- 🧩 I love to document and explain my work clearly
+-  Engineering student passionate about **Machine Learning & AI**
+-  I build **end-to-end ML systems**
+-  Have a strong foundation in **Machine Learning**, and continuously learning more
+-  Currently learning and experimenting with **Deep Learning, AI agents, automation, cybersecurity, and scalable systems**
+-  Side interests: cybersecurity, graphic design & digital art
+-  I love to document and explain my work clearly and in a fun way :3
 
 ---
 
